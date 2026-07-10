@@ -6,9 +6,8 @@ Bridge Android 媒体播放状态到 Windows SMTC（System Media Transport Contr
 
 - **Android → Windows 同步**：手机播放的音乐、视频信息实时同步到 Windows 系统媒体控件
 - **SMTC 集成**：Windows 任务栏可直接显示专辑封面、曲目名称、进度条并控制播放
-- **ADB 连接**：通过 Wi-Fi ADB 连接 Android 设备
+- **ADB 连接**：通过 Wi-Fi/ADB 连接 Android 设备
 - **TCP 协议**：自定义协议传输轨道元数据、封面和播放状态
-- **音量同步**：双向音量调节支持
 
 ## 工作原理
 
