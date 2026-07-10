@@ -62,7 +62,8 @@ Android 端监听媒体通知，提取曲目信息、封面、进度，通过 TC
 dotnet build windows-src/A2WMC.Windows/
 ```
 
-需要 .NET 8 SDK。
+需要 .NET 8 SDK
+需要 scrcpy支持音频传输
 
 ## 版本
 
